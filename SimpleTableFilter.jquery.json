@@ -4,7 +4,7 @@
     "description": "jQuery plugin for filter the simple tables.",
     "keywords": [
         "SimpleTableFilter",
-        "table filter","Table Filter","table "
+        "filter","Table","tableFilter","FilterTable"
     ],
     "version": "1.0.0",
     "author": {
