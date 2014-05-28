@@ -1,0 +1,33 @@
+{
+    "name": "SimpleTableFilter",
+    "title": "jQuery SimpleTableFilter",
+    "description": "jQuery plugin for filter the simple tables.",
+    "keywords": [
+        "SimpleTableFilter",
+        "table filter","Table Filter","table "
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "santhosh kumar",
+        "url": "https://github.com/santhoshpendyala/SimpleTableFilter/blob/master/README.md"
+    },
+    "maintainers": [
+        {
+            "name": "santhosh kumar pendyala",
+            "email": "pendyala.santhosh@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/santhoshpendyala/SimpleTableFilter/issues",
+    "homepage": "https://github.com/santhoshpendyala/SimpleTableFilter",
+    "docs": "https://github.com/santhoshpendyala/SimpleTableFilter",
+    "download": "https://github.com/santhoshpendyala/SimpleTableFilter/SimpleTableFilter.js",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
